@@ -10,5 +10,5 @@ tag:Name: frontend
 instance-state-name: running
 
 keyed_groups:
-  - key: ec2_tags.Name
+  - key: tags.Name
     seperator: ''
